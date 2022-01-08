@@ -1,3 +1,6 @@
+# Click the below link to run the application
+https://mjsf1234.github.io/Expense-Trackers/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
