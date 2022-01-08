@@ -3,7 +3,6 @@ import React, { useState } from "react";
 import Expense from "./Components/Expenses/Expense";
 import NewExpense from "./Components/NewExpense/NewExpense";
 
-//Dummy data
 const InitialExpenses = [];
 
 //   {
