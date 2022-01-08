@@ -27,6 +27,7 @@ const InitialExpenses = [];
 //   },
 // ];
 
+//main
 function App() {
   //Actuale JSX working using the react
   // return react.createElement(
